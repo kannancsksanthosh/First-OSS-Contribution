@@ -19,7 +19,7 @@ Please go through the steps in `Contribution.md` file before making a pull reque
     <td>1</td>
         <td>Santhosh Kannan</td>
         <td><img width="75" src="https://avatars.githubusercontent.com/u/140004786?s=96&v=4" alt="Contributor Avatar"></td>
-        <td>@TwitterHandle</td>
+        <td>@csk</td>
     <tr>
         <td>2</td>
         <td>Kavin K R</td>
